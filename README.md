@@ -6,4 +6,4 @@ My Shadowrocket config rules for better adblock and proxy.
 
 Scan this qrcode to import into [Shadowrocket](https://itunes.apple.com/cn/app/shadowrocket/id932747118?mt=8) app.
 
-![qrcode](./qrcode.png)
+![qrcode](./qrcode-2.png)
